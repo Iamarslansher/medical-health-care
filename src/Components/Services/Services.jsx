@@ -10,10 +10,9 @@ import {
   FaHospital,
   FaHeartbeat,
   FaBaby,
-  FaPersonCircleCheck,
 } from "react-icons/fa";
+import { FaPersonCircleCheck } from "react-icons/fa6";
 import { PiPrescriptionFill } from "react-icons/pi";
-import "../../styles/custom.css";
 
 const ServiceCard = ({ icon, title, description }) => {
   return (

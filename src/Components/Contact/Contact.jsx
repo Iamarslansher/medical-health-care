@@ -2,7 +2,6 @@ import React from "react";
 import { FaPhoneAlt, FaHospital, FaAmbulance } from "react-icons/fa";
 import { IoMdMailUnread } from "react-icons/io";
 import { FaLocationDot, FaClock } from "react-icons/fa6";
-import "../../styles/custom.css";
 
 const Contact = () => {
   return (
